@@ -1,4 +1,4 @@
-# Olá, sou a Juliana Guonik.
+# :wave: Olá, sou a Juliana Guonik
 
 🎓 Sou formada em Administração e Comércio Exterior.
 
