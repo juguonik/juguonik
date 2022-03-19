@@ -6,4 +6,4 @@
 
 :globe_with_meridians: PT-BR / EN
 
-:iphone: https://www.linkedin.com/in/juliana-guonik/
+
