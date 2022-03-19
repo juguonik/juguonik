@@ -26,5 +26,5 @@
 
 <br>
  <h4> Contatos:</h4>
- <a href="https://www.linkedin.com/in/juliana-guonik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://www.linkedin.com/in/juliana-guonik/" target=_blank><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_blank></a>   
  <a href = "mailto:juliana_guonik@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logo Color=white target="_blank"></a>
