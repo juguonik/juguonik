@@ -7,6 +7,9 @@
 :globe_with_meridians: PT-BR / EN
 
 
+ 
+
+
 <div>
 <a href="https://github.com/juguonik">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juguonik&layout=compact&langs_count=7&theme=dracula"/>
