@@ -1,14 +1,13 @@
-# :wave: Olá, sou a Juliana Guonik
+# :wave: Hello, I'm Juliana Guonik
 
-🎓 Sou formada em Administração e Comércio Exterior.
+🎓 I'm graduated in Management and International Trade (Unicamp).
 
-🌱 Atualmente estou cursando Tecnologia da Informação na Univesp e fiz parte da turma #XP41 da Gama Experience - curso para formação de Desenvolvedores Fullstack Jr.
-
+🌱 I'm currently graduating in IT (Univesp) and recently graduated in a Web Full Stack nanodegree program (#XP41 - Gama Experience).
 :globe_with_meridians: PT-BR / EN
 
 
  
-<h4> Tecnologias: </h4>
+<h4> Technologies: </h4>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt = "html 5" width = "40" height = "40" /> 
@@ -35,7 +34,7 @@
 
 
 <br>
- <h4> Contatos:</h4>
+ <h4> Contact:</h4>
  <a href="https://www.linkedin.com/in/juliana-guonik/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
  <a href = "mailto:juliana_guonik@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logo Color=white target="_blank"></a>
  
