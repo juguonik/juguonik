@@ -3,6 +3,8 @@
 🎓 I'm graduated in Management and International Trade (Unicamp).
 
 🌱 I'm currently graduating in IT (Univesp) and recently graduated in a Web Full Stack nanodegree program (#XP41 - Gama Experience).
+
+
 :globe_with_meridians: PT-BR / EN
 
 
