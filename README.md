@@ -4,6 +4,8 @@
 
 🌱 I'm currently graduating in IT (Univesp) and recently graduated in a Web Full Stack nanodegree program (#XP41 - Gama Experience).
 
+:computer: Intern at IBM
+
 
 :globe_with_meridians: PT-BR / EN
 
