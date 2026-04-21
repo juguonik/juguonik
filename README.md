@@ -1,8 +1,6 @@
 # :wave: Hello, I'm Juliana Guonik
 
-🎓 I'm graduated in Management and International Trade (Unicamp).
-
-🌱 I'm currently graduating in IT (Univesp) and recently graduated in a Web Full Stack nanodegree program (#XP41 - Gama Experience).
+🎓 I'm graduated in Management and International Trade (Unicamp) and in IT (Univesp). I also graduated in a Web Full Stack nanodegree program (#XP41 - Gama Experience).
 
 :computer: Junior Software developer at IBM
 
